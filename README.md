@@ -1,3 +1,3 @@
 ### NMIDAndroid平台暑期培训作业提交地址
 
-![](https://ss.csdn.net/p?https://mmbiz.qpic.cn/mmbiz_gif/XUfq62QbuNh4QfTlBesGVVcdJ9gotiazUmlfNgFHFsp4gF1d5ia8NiaASb8YC02wWyv33byvJQIpyKHRkQ5k0ibIFw/640?wx_fmt=gif)
+![img](https://raw.githubusercontent.com/Funsquirrel/Funsquirrel.github.io/master/img/%E8%A1%A8%E6%83%85/android_1.jpg)
